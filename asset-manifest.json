@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/smart-reporting/static/css/main.d21bedb9.css",
-    "main.js": "/smart-reporting/static/js/main.c950bb38.js",
+    "main.js": "/smart-reporting/static/js/main.dfbc850c.js",
     "static/js/453.f63c533f.chunk.js": "/smart-reporting/static/js/453.f63c533f.chunk.js",
     "static/media/Indosat_Ooredoo_Hutchison.png": "/smart-reporting/static/media/Indosat_Ooredoo_Hutchison.33c22c669590d1e1ff5e.png",
     "index.html": "/smart-reporting/index.html",
     "main.d21bedb9.css.map": "/smart-reporting/static/css/main.d21bedb9.css.map",
-    "main.c950bb38.js.map": "/smart-reporting/static/js/main.c950bb38.js.map",
+    "main.dfbc850c.js.map": "/smart-reporting/static/js/main.dfbc850c.js.map",
     "453.f63c533f.chunk.js.map": "/smart-reporting/static/js/453.f63c533f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d21bedb9.css",
-    "static/js/main.c950bb38.js"
+    "static/js/main.dfbc850c.js"
   ]
 }
